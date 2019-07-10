@@ -1,0 +1,47 @@
+/*
+
+	CSS para los ejemplos de la carpeta "/ejemplos-css/"
+
+
+*/
+
+h1, h2, h3, h4, h5, h6{
+	font-famili: serif;
+	color: teal;
+}
+
+h1{
+	color:red;
+}
+
+h2{
+	font-size:1.8em;
+}
+h3{
+	font-size:1.6em;
+}
+h4, h5, h6{
+	font-size:1.3em;
+}
+
+span{
+	color: blue;
+	font-size: 200%;
+	background-color: navy;
+}
+
+p span{
+	color: red;
+	background-color: teal;
+}
+
+.destacado{
+	color:red;
+}
+
+
+@media print{ /* Este estilo se aplicaria para impresora */
+	h1{
+	color:pink;
+	}	
+} 
