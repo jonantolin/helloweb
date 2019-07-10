@@ -12,7 +12,8 @@
 				<li><a href="ejemplos-html/index.jsp?title=Ejemplos HTML&a=1">HTML</a></li>
 				<li><a href="ejemplos-css/introduccionCSS.jsp?title=CSS&a=2">CSS</a></li>
 				<li><a href="ejemplos-js/index.jsp?title=Ejemplos JS&a=3" >JS</a></li>
-				<li><a href="ServletJSP.jsp?title=Servlets&a=4">Servlet + JSP </a></li>
+				<li><a href="ejemplos-bootstrap/index.jsp?title=Bootstrap&a=4" >Bootstrap</a></li>
+				<li><a href="ServletJSP.jsp?title=Servlets&a=5">Servlet + JSP </a></li>
 			</ul>
 		</nav>
 		</div>

@@ -1,0 +1,70 @@
+/* ---------MENU ANTERIOR PRINCIPAL ----------*/
+
+header#principal{
+	color: #FFF;
+	background-color: #003580;
+	width:100%;
+}
+div.ipartek{
+	width:100%;
+	background-image: linear-gradient(#85e4e4, #003580);
+    
+}
+div.ipartek div.content{
+	max-width: 1024px;
+	margin:auto;
+}
+
+div.menu{
+	width:100%;
+	border-bottom: 1px solid #DDD;
+	background: #f7f7f7;
+}
+
+div.menu nav ul{
+	display:flex;
+	flex-direction: row; /* valor por defecto */
+
+
+}
+div.menu nav ul li{
+	margin-right: 1em;
+}
+div.menu nav ul li:last-child{
+	margin-right: 0;
+}
+header#principal div.content{
+	padding:1em;
+}
+header#principal h1.content{
+	font-family: 'Roboto', sans-serif;
+	
+}
+
+header ul{
+	list-style-type: none;	
+	padding: 1em;
+	font-family: 'Roboto', sans-serif;
+}
+
+header ul li a{
+	color: #003580;
+	text-decoration: none;
+	margin: 0;
+	padding: 1em;
+	transition-duration: .2s;
+}
+
+header ul li a:hover{
+	color: white;
+	background-color: #003580;
+
+}
+
+.active{
+	background-color:navy;
+	color:white;
+}
+
+/* --------- FIN MENU ANTERIOR PRINCIPAL ----------*/
+

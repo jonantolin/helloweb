@@ -1,5 +1,5 @@
 <jsp:include page="../includes/header.jsp"></jsp:include>
-<body>
+
 
 <jsp:include page="../includes/menu_principal.jsp"></jsp:include>
 	<main class="content">
