@@ -88,8 +88,8 @@
 					class="nav-item nav-link" href="ejemplos-bootstrap/utilidades.jsp">Utilidades</a>
 				<a class="nav-item nav-link" href="ejemplos-bootstrap/grid.jsp">Grid
 					System 12</a> <a class="nav-item nav-link"
-					href="ejemplos-bootstrap/ejemplol.jsp">Página completa</a> <a
-					class="nav-item nav-link" href="ejemplos-bootstrap/theme.jsp">Plantillazo</a>
+					href="ejemplos-bootstrap/ejemplo1.jsp">Página completa</a> <a
+					class="nav-item nav-link" href="ejemplos-bootstrap/plantillazo.jsp">Plantillazo</a>
 			</div>
 		</div>
 	</nav>
