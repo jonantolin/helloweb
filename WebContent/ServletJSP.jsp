@@ -1,5 +1,5 @@
 <jsp:include page="includes/header.jsp"></jsp:include>
-<body onload="init()">
+
 <style>
 	#cajaEjercicios{
 		margin:1em;
@@ -19,14 +19,14 @@
 	}
 </style>
 <jsp:include page="includes/menu_principal.jsp"></jsp:include>
-	
-	<div id="cajaEjercicios">
-			<ul>
-				<li><a href="saludo/formulario.jsp?a=4"><i class="fas fa-hand-paper"></i> Saludo</a></li>
-				<li><a href="VideoYoutube/index.jsp?a=4"><i class="fab fa-youtube"></i> Crear video Yotube</a></li>
-				<li><a href="FormuPerro/index.jsp?a=4"><i class="fas fa-paw"></i> Listado de perros</a></li>
-			</ul>
-	
-	</div>
-	
+	<main class="content">
+		<div id="cajaEjercicios">
+				<ul>
+					<li><a href="saludo/formulario.jsp?a=4"><i class="fas fa-hand-paper"></i> Saludo</a></li>
+					<li><a href="VideoYoutube/index.jsp?a=4"><i class="fab fa-youtube"></i> Crear video Yotube</a></li>
+					<li><a href="FormuPerro/index.jsp?a=4"><i class="fas fa-paw"></i> Listado de perros</a></li>
+				</ul>
+		
+		</div>
+	</main>
 <jsp:include page="includes/footer.jsp"></jsp:include>

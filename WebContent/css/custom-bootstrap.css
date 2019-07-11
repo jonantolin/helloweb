@@ -21,6 +21,12 @@ div.menu{
 	background: #f7f7f7;
 }
 
+div.menu nav{
+	max-width: 1024px;
+	margin: auto;
+	
+}
+
 div.menu nav ul{
 	display:flex;
 	flex-direction: row; /* valor por defecto */
