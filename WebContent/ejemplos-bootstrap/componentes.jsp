@@ -15,7 +15,7 @@
 					aria-controls="collapseOne">
 					<h3 class="">
 						<i class="far fa-bell mr-2"></i>Alerts
-						<!-- PONER LOS EJEMPLOS USANDO ACORDEON -->
+						
 					</h3>
 				</button>
 			</h2>
@@ -57,7 +57,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div><!-- FIN CARD -->
 	<div class="card">
 		<div class="card-header" id="headingTwo">
 			<h2 class="mb-0">
@@ -87,7 +87,7 @@
 
 			</div>
 		</div>
-	</div>
+	</div> <!-- FIN CARD -->
 	<div class="card">
 		<div class="card-header" id="headingThree">
 			<h2 class="mb-0">
@@ -154,7 +154,7 @@
 			</div>
 		</div>
 
-	</div>
+	</div> <!-- FIN CARD -->
 	<div class="card">
 		<div class="card-header" id="headingCuatro">
 			<h2 class="mb-0">
@@ -198,7 +198,7 @@
 
 			</div>
 		</div>
-	</div>
+	</div><!-- FIN CARD -->
 
 
 	<div class="card">
@@ -265,7 +265,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div><!-- FIN CARD -->
 
 	<div class="card">
 		<div class="card-header" id="headingSeis">
@@ -332,7 +332,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div><!-- FIN CARD -->
 		<div class="card">
 			<div class="card-header" id="headingSiete">
 				<h2 class="mb-0">
@@ -389,7 +389,7 @@
 
 			</div>
 		</div>
-	</div>
+	</div><!-- FIN CARD -->
 
 	<div class="card">
 		<div class="card-header" id="headingOcho">
@@ -458,7 +458,7 @@
 				</div>
 			</div>
 			</div>
-		</div>
+		</div><!-- FIN CARD -->
 		</div>
 		<!-- fin acordeon -->
 
