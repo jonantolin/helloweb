@@ -89,7 +89,7 @@
 				<a class="nav-item nav-link" href="ejemplos-bootstrap/grid.jsp">Grid
 					System 12</a> <a class="nav-item nav-link"
 					href="ejemplos-bootstrap/ejemplo1.jsp">Página completa</a> <a
-					class="nav-item nav-link" href="ejemplos-bootstrap/plantillazo.jsp">Plantillazo</a>
+					class="nav-item nav-link" href="plantillazo/index.html" target="_blank">Plantillazo</a>
 			</div>
 		</div>
 	</nav>
