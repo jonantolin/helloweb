@@ -20,7 +20,7 @@ public class ServletPerro extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
 	private String VIEW = "FormuPerro/resumen.jsp?a=4";
-	private String VIEW_MAL = "index.jsp";
+	//private String VIEW_MAL = "index.jsp";
 	private static ArrayList<Perro> listaPerros = new ArrayList<Perro>();
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
@@ -30,7 +30,7 @@ public class ServletPerro extends HttpServlet {
 		
 		//Iterator<Perro> iterador = listaPerros.iterator();
 		
-		for (Iterator iterator = listaPerros.iterator(); iterator.hasNext();) {
+		for (Iterator<Perro> iterator = listaPerros.iterator(); iterator.hasNext();) {
 			Perro perro = (Perro) iterator.next();
 			
 			
